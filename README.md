@@ -6,15 +6,15 @@
 	<h1>Zuhair Imamdi</h1>
 </head>
 <body>
- <p>Mijn hobby's</p>  
+   <h2>Mijn hobby's</h2>  
   <ul>
   <li>Voetballen</li>
   <li>Gamen</li>
-        
-   <P>Favoriete serie's</P>
-   <ul>La Casa da Papel</ul>
-   <ul>Good Girls</ul>
-
+   <ul>
+  <h2>Favoriete serie's</h2>
+        <ul>La Casa da Papel</ul>
+        <ul>Good Girls</ul>
+         </ul>
   
 
 
